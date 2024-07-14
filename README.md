@@ -27,7 +27,7 @@ java --version
 
 3.  Open this project in your favroite IDE, I recommend you to open this project in Android Studio and make sure you have installed android emulator in your pc for viewing output.
    
-4.  Wait until all the dependecies are satisfied in android studio, Now you are good to go and can run your project.
+4.  Wait until all the dependecies are satisfied in android studio, now you are good to go and can run your project.
 
 ## Screenshots
 
