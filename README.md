@@ -12,6 +12,22 @@ The application includes a robust search functionality that enables users to qui
 
 Furthermore, Notes App allows users to share their notes. This feature facilitates collaboration and information sharing among individuals or teams, making it easy to distribute and collaborate on projects, tasks, and ideas.
 
+# Getting Started 
+
+To clone and run this project on your local machine, follow these steps:
+
+1. Clone the repository:
+```
+git clone https://github.com/Sriramkashyapks/notes_app.git
+```
+2. Make sure that you have java in your PC, for verifying it you can run the below command in your terminal.
+```
+java --version
+```
+
+3.  Open this project in your favroite IDE, I recommend you to open this project in Android Studio and make sure you have installed android emulator in your pc for viewing output.
+   
+4.  Wait until all the dependecies are satisfied in android studio, Now you are good to go and can run your project.
 
 ## Screenshots
 
