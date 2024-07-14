@@ -15,11 +15,7 @@ Furthermore, Notes App allows users to share their notes. This feature facilitat
 
 ## Screenshots
 
-[Image 01](https://github.com/SkandaKoushik/NotesApplication/blob/main/screenshot/img01.png")\
-[Image 02](https://github.com/SkandaKoushik/NotesApplication/blob/main/screenshot/img02.png")\
-[Image 03](https://github.com/SkandaKoushik/NotesApplication/blob/main/screenshot/img03.png")\
-[Image 04](https://github.com/SkandaKoushik/NotesApplication/blob/main/screenshot/img04.png")
-
-
-
-
+<img width="235" alt="Screenshot 2024-07-14 at 11 39 18" src="https://github.com/user-attachments/assets/b7d4a116-7e17-4c08-b3e9-006575b15ee1">
+<img width="235" alt="Screenshot 2024-07-14 at 11 40 12" src="https://github.com/user-attachments/assets/13cddf52-1493-462c-96ad-32d3b765ab1a">
+<img width="235" alt="Screenshot 2024-07-14 at 11 40 26" src="https://github.com/user-attachments/assets/6a3675e2-650f-4459-9ef5-7aba69238af6">
+<img width="235" alt="Screenshot 2024-07-14 at 11 40 37" src="https://github.com/user-attachments/assets/3db8f45f-958a-484e-9004-4d5699d808be">
